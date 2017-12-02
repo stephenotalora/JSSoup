@@ -1284,9 +1284,9 @@ html-encoding-sniffer@^1.0.1:
   dependencies:
     whatwg-encoding "^1.0.1"
 
-htmlparser@^1.7.7:
-  version "1.7.7"
-  resolved "https://registry.yarnpkg.com/htmlparser/-/htmlparser-1.7.7.tgz#19e7b3997ff6fbac99ae5a7d2766489efe7e2d0e"
+"htmlparser@git://github.com/stephenotalora/node-htmlparser.git#v1.7.8":
+  version "1.7.8"
+  resolved "git://github.com/stephenotalora/node-htmlparser.git#fb0fa2c43b3253e6541be8601f8d53e9cf003449"
 
 http-signature@~1.1.0:
   version "1.1.1"

@@ -1,7 +1,7 @@
 {
   "name": "jssoup",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "JSSoup is a BeautifulSoup style HTML parser library.",
   "main": "./dist/lib/jssoup.js",
   "files": [
@@ -55,6 +55,6 @@
     ]
   },
   "dependencies": {
-    "htmlparser": "^1.7.7"
+    "htmlparser": "git://github.com/stephenotalora/node-htmlparser.git#v1.7.8"
   }
 }
